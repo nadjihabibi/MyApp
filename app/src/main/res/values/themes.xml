@@ -1,0 +1,49 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorAccent">@color/gray</item>
+        <item name="colorPrimaryDark">@color/blue_dark</item>
+    </style>
+
+    <style name="Theme.MyApp" parent="Base.Theme.MyApp" />
+
+    <style name="text_title">
+        <item name="android:textSize">28sp</item>
+        <item name="fontFamily">@font/poppins_bold</item>
+    </style>
+
+
+    <style name="text_content">
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+
+    <style name="text_content3">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+
+    <style name="text_subContent1">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="text_subContent3">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+
+
+    <style name="Theme.Fab_Bottom_app_bar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#4cd080</item>
+        <item name="colorPrimaryVariant">#4cd080</item>
+        <item name="colorOnPrimary">#000</item>
+    </style>
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in_bottom</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_bottom</item>
+    </style>
+</resources>

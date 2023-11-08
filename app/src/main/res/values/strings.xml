@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="title_activity_maps_store">MapsStoreActivity</string>
+    <string name="proccess_payment">Proccess payment</string>
+    <string name="_000_123_456">000-123-456</string>
+    <string name="nama_user">Nama User</string>
+    <string name="bni">Bank Negara Indonesia</string>
+    <string name="saldo">Rp. 123456</string>
+    <string name="tap_to_proccess">Tap to proccess</string>
+    <string name="nominal">nominal</string>
+    <string name="pembayaran_berhasil">Pembayaran Berhasil!</string>
+    <string name="total_bayar">Total bayar</string>
+    <string name="nama_merchant">Nama Merchant</string>
+    <string name="rekening_sumber">Rekening sumber</string>
+    <string name="sisa_saldo">Sisa saldo</string>
+    <string name="kembali_ke_menu_utama">Kembali ke menu utama</string>
+    <string name="riwayat_transaksi">Riwayat Transaksi</string>
+    <string name="see_detail">See Detail</string>
+    <string name="lokasi">lokasi</string>
+    <string name="nama">Nama</string>
+    <string name="promo_amp_discount"><![CDATA[Promo & Discount]]></string>
+    <string name="user_name">User Name</string>
+    <string name="your_available_balance">Your available balance</string>
+    <string name="rp_0">Rp.0</string>
+    <string name="promo_detail">Promo Detail</string>
+    <string name="detail_promo">Detail Promo</string>
+    <string name="linechart">LineChart</string>
+</resources>
