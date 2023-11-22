@@ -5,5 +5,9 @@ Aplikasi dompet digital dengan case:
 3. Menampilkan promo dari resfull API.
 4. Menampilkan history portfolio dari json.
 
-   contoh qr-code
-   ![alt text](https://github.com/nadjihabibi/MyApp/blob/main/qr%20code.png?raw=true)
+contoh qr-code
+<img src="[images/contoh-gambar.png](https://github.com/nadjihabibi/MyApp/blob/main/qr%20code.png?raw=true)" alt="QR-Code" width="250"/>
+
+
+Screenshot Aplikasi
+<img src="[https://github.com/nadjihabibi/MyApp/blob/main/app/Screenshot_20231108_145036_MyApp.jpg?raw=true]" alt="" width="250"/>
